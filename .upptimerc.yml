@@ -1,26 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: santaclaraca # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: City of Santa Clara
+    url: https://www.santaclaraca.gov
+    maxResponseTime: 10000
+  - name: Admin
+    url: $SITE1
+    maxResponseTime: 10000
+  - name: E-mails
+    url: https://admin.govdelivery.com
+    maxResponseTime: 10000
+  - name: Silicon Valley Animal Control Authority
+    url: https://www.svaca.com
+    maxResponseTime: 10000
+  - name: Silicon Valley Power
+    url: https://www.siliconvalleypower.com
+    maxResponseTime: 10000
+  - name: Fiber Connect
+    url: https://www.svpfiber.com
+    maxResponseTime: 10000
+  - name: Santa Clara City Library
+    url: https://www.sclibrary.org
+    maxResponseTime: 10000
+  - name: Cludo
+    url: https://my.cludo.com
+    maxResponseTime: 10000
+  - name: Accela
+    url: https://aca-prod.accela.com/santaclara
+    maxResponseTime: 10000
+  - name: Mark43
+    url: https://mark43.com/
+    maxResponseTime: 10000
+  - name: SiteImprove
+    url: https://id.siteimprove.com/Account/Login
+    maxResponseTime: 10000
+  - name: none
+    url:  https://ntohnh.lnh
+    maxResponseTime: 1000
+   
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "CSC websites status dashboard"
+  introMessage: 
   navbar:
     - title: Status
       href: /
