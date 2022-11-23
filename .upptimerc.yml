@@ -25,16 +25,16 @@ sites:
     url: https://www.sclibrary.org
     maxResponseTime: 10000
   - name: Cludo
-    url: https://my.cludo.com
+    url: $SITE_SEO_C
     maxResponseTime: 10000
   - name: Accela
     url: https://aca-prod.accela.com/santaclara
     maxResponseTime: 10000
   - name: Mark43
-    url: https://mark43.com/
+    url: $SITE_SAFETY
     maxResponseTime: 10000
   - name: SiteImprove
-    url: https://id.siteimprove.com/Account/Login
+    url: $SITE_SAAS_PERF
     maxResponseTime: 10000
    
 
