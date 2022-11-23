@@ -1,7 +1,7 @@
-url: https://my.cludo.com
+url: $SITE_SEO_C
 status: up
 code: 200
-responseTime: 143
-lastUpdated: 2022-11-23T02:26:10.899Z
+responseTime: 96
+lastUpdated: 2022-11-23T02:47:24.676Z
 startTime: Sat Nov 19 2022 00:02:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
