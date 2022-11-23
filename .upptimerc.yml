@@ -7,7 +7,7 @@ sites:
     url: https://www.santaclaraca.gov
     maxResponseTime: 10000
   - name: Admin
-    url:$SITE_MAIN_ADMIN
+    url: $SITE_MAIN_ADMIN
     maxResponseTime: 10000
   - name: E-mails
     url: https://admin.govdelivery.com
