@@ -1,7 +1,7 @@
-url: https://admin.govdelivery.com
+url: $SITE_MAIN_EMAIL
 status: up
 code: 200
-responseTime: 323
-lastUpdated: 2022-11-23T02:18:56.706Z
+responseTime: 418
+lastUpdated: 2022-11-23T02:26:03.622Z
 startTime: Sat Nov 19 2022 00:02:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
