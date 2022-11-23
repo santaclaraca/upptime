@@ -10,7 +10,7 @@ sites:
     url: $SITE_MAIN_ADMIN
     maxResponseTime: 10000
   - name: E-mails
-    url: https://admin.govdelivery.com
+    url: $SITE_MAIN_EMAIL
     maxResponseTime: 10000
   - name: Silicon Valley Animal Control Authority
     url: https://www.svaca.com
