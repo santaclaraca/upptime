@@ -39,6 +39,18 @@ sites:
   - name: SiteImprove
     url: $SITE_SAAS_PERF
     maxResponseTime: 10000
+  - name: PeopleSoft
+    url: https://ESS.SantaClaraCA.gov
+    maxResponseTime: 10000
+  - name: Harris Customer Connect
+    url: https://mua/CC/connect/authentication/AdminLogin.xml
+    maxResponseTime: 10000
+  - name: FTB
+    url: https://swift.ftb.ca.gov/    
+	  maxResponseTime: 10000
+  - name: ArcGIS
+    url: https://www.arcgis.com/
+    maxResponseTime: 10000
    
 
 status-website:
