@@ -25,7 +25,7 @@ sites:
     url: https://www.sclibrary.org
     maxResponseTime: 10000
   - name: Legistar
-    url: https://santaclara.legistar.com/
+    url: https://santaclara.legistar.com
     maxResponseTime: 10000
   - name: Accela
     url: https://aca-prod.accela.com/santaclara
@@ -46,10 +46,10 @@ sites:
     url: https://mua/CC/connect/authentication/AdminLogin.xml
     maxResponseTime: 10000
   - name: FTB
-    url: https://swift.ftb.ca.gov/    
+    url: https://swift.ftb.ca.gov
     maxResponseTime: 10000
   - name: ArcGIS
-    url: https://www.arcgis.com/
+    url: https://www.arcgis.com
     maxResponseTime: 10000
    
 
