@@ -42,10 +42,12 @@ sites:
   - name: PeopleSoft
     url: https://ESS.SantaClaraCA.gov
     maxResponseTime: 10000
-  - name: Harris Customer Connect
-    url: https://mua/CC/connect/authentication/AdminLogin.xml
-  - name: FTB
+  - name:  Customer Connect (check manually)
+    url: https://mua/CC/connect/authentication/AdminLogin.xm
+    maxResponseTime: 10000
+  - name: FTB (check manually)
     url: https://swift.ftb.ca.gov
+    maxResponseTime: 10000
   - name: ArcGIS
     url: https://www.arcgis.com/
     maxResponseTime: 10000
@@ -97,6 +99,13 @@ sites:
   - name: JP Morgan Access
     url: https://access.jpmorgan.com/jpmalogon
     maxResponseTime: 10000
+  - name: Office 365
+    url: https://login.microsoftonline.com/
+    maxResponseTime: 10000
+  - name: Lucity
+    url: https://lucityprod.santaclaraca.gov/LucityWeb/Public/Login.aspx
+    maxResponseTime: 10000
+
    
 
 status-website:
