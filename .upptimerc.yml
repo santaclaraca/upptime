@@ -88,6 +88,16 @@ sites:
   - name: Imagetrend Elite Rescue (Fire & EMS)
     url: https://www.imagetrend.com/
     maxResponseTime: 10000
+  - name: Laserfish
+    url: https://www.laserfiche.com/signon/
+    maxResponseTime: 10000
+  - name: Laserfish
+    url: https://www.laserfiche.com/signon/
+    maxResponseTime: 10000
+  - name: JP Morgan Access
+    url: https://access.jpmorgan.com/jpmalogon
+    maxResponseTime: 10000
+    https://access.jpmorgan.com/jpmalogon
    
 
 status-website:
