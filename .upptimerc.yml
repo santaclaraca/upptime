@@ -44,10 +44,12 @@ sites:
     maxResponseTime: 10000
   - name: Harris Customer Connect
     url: https://mua/CC/connect/authentication/AdminLogin.xml
+    __dangerous__insecure: true
     maxResponseTime: 10000
   - name: FTB
     url: https://swift.ftb.ca.gov/    
     maxResponseTime: 10000
+    __dangerous__insecure: true
   - name: ArcGIS
     url: https://www.arcgis.com/
     maxResponseTime: 10000
