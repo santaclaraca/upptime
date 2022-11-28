@@ -43,10 +43,12 @@ sites:
     url: https://ESS.SantaClaraCA.gov
     maxResponseTime: 10000
   - name: Harris Customer Connect
+    method: GET
     url: https://mua/CC/connect/authentication/AdminLogin.xml
     __dangerous__insecure: true
     maxResponseTime: 10000
   - name: FTB
+     method: GET
     url: https://swift.ftb.ca.gov/    
     maxResponseTime: 10000
     __dangerous__insecure: true
