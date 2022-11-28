@@ -48,7 +48,7 @@ sites:
     __dangerous__insecure: true
     maxResponseTime: 10000
   - name: FTB
-     method: GET
+    method: GET
     url: https://swift.ftb.ca.gov/    
     maxResponseTime: 10000
     __dangerous__insecure: true
