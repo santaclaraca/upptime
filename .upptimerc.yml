@@ -47,7 +47,7 @@ sites:
     maxResponseTime: 10000
   - name: FTB
     url: https://swift.ftb.ca.gov/    
-	  maxResponseTime: 10000
+    maxResponseTime: 10000
   - name: ArcGIS
     url: https://www.arcgis.com/
     maxResponseTime: 10000
