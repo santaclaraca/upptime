@@ -7,10 +7,10 @@ sites:
     url: https://www.santaclaraca.gov
     maxResponseTime: 10000
   - name: Admin
-    url: $SITE_MAIN_ADMIN
+    url: https://www.santaclaraca.gov/Admin 
     maxResponseTime: 10000
   - name: E-mails
-    url: $SITE_MAIN_EMAIL
+    url: https://admin.govdelivery.com
     maxResponseTime: 10000
   - name: Silicon Valley Animal Control Authority
     url: https://www.svaca.com
@@ -25,30 +25,70 @@ sites:
     url: https://www.sclibrary.org
     maxResponseTime: 10000
   - name: Legistar
-    url: https://santaclara.legistar.com
+    url: https://santaclara.legistar.com/
     maxResponseTime: 10000
   - name: Accela
     url: https://aca-prod.accela.com/santaclara
     maxResponseTime: 10000
   - name: Cludo
-    url: $SITE_SEO_C
+    url: https://my.cludo.com
     maxResponseTime: 10000
   - name: Mark43
-    url: $SITE_SAFETY
+    url: https://mark43.com
     maxResponseTime: 10000
   - name: SiteImprove
-    url: $SITE_SAAS_PERF
+    url: https://id.siteimprove.com/Account/Login
     maxResponseTime: 10000
   - name: PeopleSoft
     url: https://ESS.SantaClaraCA.gov
     maxResponseTime: 10000
-  - name: FTB
-    url: https://swift.ftb.ca.gov
-  - name: ArcGIS
-    url: https://www.arcgis.com
-    maxResponseTime: 10000
   - name: Harris Customer Connect
     url: https://mua/CC/connect/authentication/AdminLogin.xml
+    maxResponseTime: 10000
+  - name: FTB
+    url: https://swift.ftb.ca.gov/    
+	  maxResponseTime: 10000
+  - name: ArcGIS
+    url: https://www.arcgis.com/
+    maxResponseTime: 10000
+  - name: Site Core
+    url: https://www.corebt.com/
+    maxResponseTime: 10000
+  - name: HDl
+    url: https://www.hdlcompanies.com/
+    maxResponseTime: 10000
+  - name: Metaviewer
+    url: https://www.metaviewer.com/
+    maxResponseTime: 10000
+  - name: Tiburon RMS
+    url: https://prioritydispatch.net/tiburon-inc/
+    maxResponseTime: 10000
+  - name: CAD Zetron
+    url: https://portal.zetron.com/
+    maxResponseTime: 10000
+  - name: ITPipes
+    url: https://fortworthsanitary.itpipes.com/
+    maxResponseTime: 10000
+  - name: Nice Systems
+    url: https://login.incontact.com/
+    maxResponseTime: 10000
+  - name: IntelliVUE
+    url: https://intellicloud2.intellinetics.com/intelliCloudVUE/
+    maxResponseTime: 10000
+  - name: Tech Logic
+    url: https://www.tech-logic.com/
+    maxResponseTime: 10000
+  - name: Faster Fleet Management
+    url: https://fasterasset.com/
+    maxResponseTime: 10000
+  - name: Linkup
+    url: https://linkup.com/
+    maxResponseTime: 10000
+  - name: C-Cure 9000
+    url: https://www.swhouse.com
+    maxResponseTime: 10000
+  - name: Imagetrend Elite Rescue (Fire & EMS)
+    url: https://www.imagetrend.com/
     maxResponseTime: 10000
    
 
