@@ -42,7 +42,7 @@ sites:
   - name: PeopleSoft
     url: https://ESS.SantaClaraCA.gov
     maxResponseTime: 10000
-  - name:  Customer Connect (check manually)
+  - name:  Customer Connect
     url: https://mua.santaclaraca.gov/CC/Login.xml
     maxResponseTime: 10000
   - name: FTB (check manually)
