@@ -43,7 +43,7 @@ sites:
     url: https://ESS.SantaClaraCA.gov
     maxResponseTime: 10000
   - name:  Customer Connect (check manually)
-    url: https://mua/CC/connect/authentication/AdminLogin.xm
+    url: https://mua.santaclaraca.gov/CC/Login.xml
     maxResponseTime: 10000
   - name: FTB (check manually)
     url: https://swift.ftb.ca.gov
