@@ -100,7 +100,7 @@ sites:
     url: https://login.microsoftonline.com/
     maxResponseTime: 10000
   - name: Lucity
-    url: https://lucityprod.santaclaraca.gov/LucityWeb/Public/Login.aspx
+    url: https://lucityprod.santaclaraca.gov/LucityWeb/Public/Login.aspx?ReturnUrl=%2fLucityWeb%2f
     maxResponseTime: 10000
 
    
