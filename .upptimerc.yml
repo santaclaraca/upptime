@@ -96,7 +96,7 @@ sites:
   - name: Office 365
     url: https://login.microsoftonline.com/
     maxResponseTime: 10000
-   - name: Laserfiche CSC
+  - name: Laserfiche CSC
     url: https://lfprod.santaclaraca.gov/laserfiche/
     maxResponseTime: 10000
   - name: Laserfiche CSC
