@@ -45,9 +45,6 @@ sites:
   - name:  Customer Connect
     url: https://mua.santaclaraca.gov/CC/Login.xml
     maxResponseTime: 10000
-  - name: FTB
-    url: https://www.ftb.ca.gov/myftb/index.asp
-    maxResponseTime: 10000
   - name: ArcGIS
     url: https://www.arcgis.com/
     maxResponseTime: 10000
@@ -98,12 +95,7 @@ sites:
     maxResponseTime: 10000
   - name: Office 365
     url: https://login.microsoftonline.com/
-    maxResponseTime: 10000
-  - name: Lucity
-    url: https://lucityprod.santaclaraca.gov/LucityWeb/Public/Login.aspx?ReturnUrl=%2fLucityWeb%2f
-    maxResponseTime: 10000
-
-   
+    maxResponseTime: 10000 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
