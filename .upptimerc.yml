@@ -96,7 +96,9 @@ sites:
   - name: Office 365
     url: https://login.microsoftonline.com/
     maxResponseTime: 10000
-
+  - name: Titan
+    url: $TITAN
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
