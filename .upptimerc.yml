@@ -96,18 +96,7 @@ sites:
   - name: Office 365
     url: https://login.microsoftonline.com/
     maxResponseTime: 10000
-  - name: Laserfiche CSC
-    url: https://lfprod.santaclaraca.gov/laserfiche/
-    maxResponseTime: 10000
-  - name: Laserfiche CSC
-    url: $LASERFICHE
-    maxResponseTime: 10000
-  - name: Laserfiche forms
-    url: $LASERFICHE_FORMS
-    maxResponseTime: 10000
-  - name: Laserfiche WebAdmin
-    url: $LASERFICHE_WEBADMIN
-    maxResponseTime: 10000
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
