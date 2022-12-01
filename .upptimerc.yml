@@ -51,12 +51,6 @@ sites:
   - name: Site Core
     url: https://www.corebt.com/
     maxResponseTime: 10000
-  - name: HDl
-    url: https://www.hdlcompanies.com/
-    maxResponseTime: 10000
-  - name: Metaviewer
-    url: https://www.metaviewer.com/
-    maxResponseTime: 10000
   - name: Tiburon RMS
     url: https://prioritydispatch.net/tiburon-inc/
     maxResponseTime: 10000
@@ -77,9 +71,6 @@ sites:
     maxResponseTime: 10000
   - name: Faster Fleet Management
     url: https://fasterasset.com/
-    maxResponseTime: 10000
-  - name: Linkup
-    url: https://linkup.com/
     maxResponseTime: 10000
   - name: C-Cure 9000
     url: https://www.swhouse.com
