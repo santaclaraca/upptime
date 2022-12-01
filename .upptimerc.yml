@@ -45,6 +45,9 @@ sites:
   - name:  Customer Connect
     url: https://mua.santaclaraca.gov/CC/Login.xml
     maxResponseTime: 10000
+  - name: Bright Metrics
+    url: https://webapp.brightmetrics.com/Login.aspx
+    maxResponseTime: 10000
   - name: ArcGIS
     url: https://www.arcgis.com/
     maxResponseTime: 10000
