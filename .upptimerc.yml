@@ -7,10 +7,10 @@ sites:
     url: https://www.santaclaraca.gov
     maxResponseTime: 10000
   - name: Admin
-    url: https://www.santaclaraca.gov/Admin 
+    url: $SITE_MAIN_ADMIN
     maxResponseTime: 10000
   - name: E-mails
-    url: https://admin.govdelivery.com
+    url: $SITE_MAIN_EMAIL
     maxResponseTime: 10000
   - name: Silicon Valley Animal Control Authority
     url: https://www.svaca.com
@@ -31,19 +31,19 @@ sites:
     url: https://aca-prod.accela.com/santaclara
     maxResponseTime: 10000
   - name: Cludo
-    url: https://my.cludo.com
+    url: $SITE_SEO_C
     maxResponseTime: 10000
   - name: Mark43
-    url: https://mark43.com
+    url: $SITE_SAFETY
     maxResponseTime: 10000
   - name: SiteImprove
-    url: https://id.siteimprove.com/Account/Login
+    url: $SITE_SAAS_PERF
     maxResponseTime: 10000
   - name: PeopleSoft
-    url: https://ESS.SantaClaraCA.gov
+    url: $SITE_PEOPLESOFT
     maxResponseTime: 10000
-  - name:  Customer Connect
-    url: https://mua.santaclaraca.gov/CC/Login.xml
+  - name: Customer Connect
+    url: $CUSTOMER_CONNECT
     maxResponseTime: 10000
   - name: Bright Metrics
     url: https://webapp.brightmetrics.com/Login.aspx
