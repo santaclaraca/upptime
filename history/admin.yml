@@ -1,7 +1,7 @@
-url: https://www.santaclaraca.gov/Admin
+url: $SITE_MAIN_ADMIN
 status: up
 code: 200
-responseTime: 320
-lastUpdated: 2022-12-01T23:29:31.633Z
+responseTime: 166
+lastUpdated: 2022-12-02T20:01:37.391Z
 startTime: Sat Nov 19 2022 00:02:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
