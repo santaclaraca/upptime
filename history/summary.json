@@ -149,18 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "accela",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 327,
     "timeDay": 325,
     "timeWeek": 329,
     "timeMonth": 327,
     "timeYear": 327,
     "dailyMinutesDown": {
-      "2022-12-02": 10,
       "2022-11-19": 76
     }
   },
@@ -241,9 +240,9 @@
     "url": "https://mua.santaclaraca.gov/CC/Login.xml",
     "icon": "https://icons.duckduckgo.com/ip3/mua.santaclaraca.gov.ico",
     "slug": "customer-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -252,7 +251,9 @@
     "timeWeek": 489,
     "timeMonth": 489,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-02": 0
+    }
   },
   {
     "name": "Bright Metrics",
