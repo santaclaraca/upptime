@@ -1,7 +1,7 @@
 url: $TITAN
-status: down
-code: 503
-responseTime: 474
-lastUpdated: 2022-12-03T06:34:23.418Z
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2022-12-03T10:30:06.954Z
 startTime: Tue Nov 29 2022 20:30:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
