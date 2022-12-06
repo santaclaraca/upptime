@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 689,
-    "timeWeek": 666,
+    "timeWeek": 683,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 212,
     "timeDay": 163,
-    "timeWeek": 209,
+    "timeWeek": 215,
     "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 402,
     "timeDay": 327,
-    "timeWeek": 473,
+    "timeWeek": 549,
     "timeMonth": 402,
     "timeYear": 402,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 759,
     "timeDay": 648,
-    "timeWeek": 720,
+    "timeWeek": 723,
     "timeMonth": 759,
     "timeYear": 759,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 639,
-    "timeWeek": 614,
+    "timeWeek": 651,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 488,
     "timeDay": 500,
-    "timeWeek": 477,
+    "timeWeek": 507,
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 475,
-    "timeWeek": 460,
+    "timeWeek": 518,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 260,
     "timeDay": 370,
-    "timeWeek": 304,
+    "timeWeek": 342,
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "99.69%",
     "time": 318,
     "timeDay": 165,
-    "timeWeek": 307,
+    "timeWeek": 284,
     "timeMonth": 318,
     "timeYear": 318,
     "dailyMinutesDown": {
@@ -176,7 +176,7 @@
     "uptimeYear": "100.00%",
     "time": 129,
     "timeDay": 176,
-    "timeWeek": 102,
+    "timeWeek": 120,
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {}
@@ -194,7 +194,7 @@
     "uptimeYear": "100.00%",
     "time": 350,
     "timeDay": 315,
-    "timeWeek": 545,
+    "timeWeek": 737,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {}
@@ -212,7 +212,7 @@
     "uptimeYear": "100.00%",
     "time": 487,
     "timeDay": 443,
-    "timeWeek": 493,
+    "timeWeek": 492,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {}
@@ -230,7 +230,7 @@
     "uptimeYear": "100.00%",
     "time": 427,
     "timeDay": 428,
-    "timeWeek": 424,
+    "timeWeek": 422,
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {}
@@ -241,14 +241,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "customer-connect",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 478,
     "timeDay": 472,
-    "timeWeek": 478,
+    "timeWeek": 463,
     "timeMonth": 478,
     "timeYear": 478,
     "dailyMinutesDown": {
@@ -286,7 +286,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 222,
-    "timeWeek": 167,
+    "timeWeek": 198,
     "timeMonth": 149,
     "timeYear": 149,
     "dailyMinutesDown": {}
@@ -304,7 +304,7 @@
     "uptimeYear": "100.00%",
     "time": 325,
     "timeDay": 443,
-    "timeWeek": 339,
+    "timeWeek": 381,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {}
@@ -322,7 +322,7 @@
     "uptimeYear": "100.00%",
     "time": 170,
     "timeDay": 150,
-    "timeWeek": 104,
+    "timeWeek": 122,
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {}
@@ -340,7 +340,7 @@
     "uptimeYear": "100.00%",
     "time": 638,
     "timeDay": 323,
-    "timeWeek": 720,
+    "timeWeek": 401,
     "timeMonth": 638,
     "timeYear": 638,
     "dailyMinutesDown": {}
@@ -350,18 +350,20 @@
     "url": "https://fortworthsanitary.itpipes.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fortworthsanitary.itpipes.com.ico",
     "slug": "it-pipes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 564,
-    "timeWeek": 847,
+    "timeWeek": 997,
     "timeMonth": 836,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-06": 0
+    }
   },
   {
     "name": "Nice Systems",
@@ -376,7 +378,7 @@
     "uptimeYear": "100.00%",
     "time": 524,
     "timeDay": 477,
-    "timeWeek": 527,
+    "timeWeek": 490,
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {}
@@ -394,7 +396,7 @@
     "uptimeYear": "100.00%",
     "time": 525,
     "timeDay": 465,
-    "timeWeek": 665,
+    "timeWeek": 898,
     "timeMonth": 525,
     "timeYear": 525,
     "dailyMinutesDown": {}
@@ -412,7 +414,7 @@
     "uptimeYear": "100.00%",
     "time": 226,
     "timeDay": 308,
-    "timeWeek": 260,
+    "timeWeek": 306,
     "timeMonth": 226,
     "timeYear": 226,
     "dailyMinutesDown": {}
@@ -448,7 +450,7 @@
     "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 285,
-    "timeWeek": 251,
+    "timeWeek": 274,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {}
@@ -466,7 +468,7 @@
     "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 458,
-    "timeWeek": 496,
+    "timeWeek": 506,
     "timeMonth": 504,
     "timeYear": 504,
     "dailyMinutesDown": {}
@@ -484,7 +486,7 @@
     "uptimeYear": "100.00%",
     "time": 1071,
     "timeDay": 636,
-    "timeWeek": 1259,
+    "timeWeek": 1578,
     "timeMonth": 1071,
     "timeYear": 1071,
     "dailyMinutesDown": {}
@@ -502,7 +504,7 @@
     "uptimeYear": "100.00%",
     "time": 609,
     "timeDay": 1541,
-    "timeWeek": 682,
+    "timeWeek": 764,
     "timeMonth": 609,
     "timeYear": 609,
     "dailyMinutesDown": {}
@@ -520,7 +522,7 @@
     "uptimeYear": "100.00%",
     "time": 537,
     "timeDay": 241,
-    "timeWeek": 500,
+    "timeWeek": 421,
     "timeMonth": 537,
     "timeYear": 537,
     "dailyMinutesDown": {}
@@ -531,11 +533,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "titan",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.38%",
-    "uptimeYear": "97.38%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
     "time": 400,
     "timeDay": 336,
     "timeWeek": 400,
