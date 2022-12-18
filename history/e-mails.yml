@@ -1,7 +1,7 @@
 url: $SITE_MAIN_EMAIL
-status: down
-code: 503
-responseTime: 218
-lastUpdated: 2022-12-18T06:07:28.062Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2022-12-18T08:09:38.737Z
 startTime: Sat Nov 19 2022 00:02:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
