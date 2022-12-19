@@ -61,7 +61,7 @@ sites:
     url: https://portal.zetron.com/
     maxResponseTime: 10000
   - name: ITPipes
-    url: https://fortworthsanitary.itpipes.com/
+    url: https://itpipes.com/
     maxResponseTime: 10000
   - name: Nice Systems
     url: https://login.incontact.com/
