@@ -253,7 +253,7 @@
     "time": 832,
     "timeDay": 538,
     "timeWeek": 504,
-    "timeMonth": 992,
+    "timeMonth": 1007,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2022-12-23": 24,
@@ -485,19 +485,19 @@
     "url": "https://www.laserfiche.com/signon/",
     "icon": "https://icons.duckduckgo.com/ip3/www.laserfiche.com.ico",
     "slug": "laserfish",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1552,
-    "timeDay": 10435,
-    "timeWeek": 3243,
-    "timeMonth": 2066,
-    "timeYear": 1552,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1535,
+    "timeDay": 7182,
+    "timeWeek": 2958,
+    "timeMonth": 2025,
+    "timeYear": 1535,
     "dailyMinutesDown": {
-      "2023-01-02": 0
+      "2023-01-02": 7
     }
   },
   {
