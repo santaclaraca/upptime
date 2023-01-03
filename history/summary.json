@@ -486,19 +486,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.laserfiche.com.ico",
     "slug": "laserfish",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1535,
     "timeDay": 7182,
     "timeWeek": 2958,
     "timeMonth": 2025,
     "timeYear": 1535,
-    "dailyMinutesDown": {
-      "2023-01-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "JP Morgan Access",
