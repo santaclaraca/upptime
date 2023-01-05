@@ -488,19 +488,19 @@
     "url": "https://www.laserfiche.com/signon/",
     "icon": "https://icons.duckduckgo.com/ip3/www.laserfiche.com.ico",
     "slug": "laserfish",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1909,
-    "timeDay": 8252,
-    "timeWeek": 5038,
-    "timeMonth": 2399,
-    "timeYear": 1909,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1891,
+    "timeDay": 5801,
+    "timeWeek": 4662,
+    "timeMonth": 2357,
+    "timeYear": 1891,
     "dailyMinutesDown": {
-      "2023-01-05": 0
+      "2023-01-05": 6
     }
   },
   {
