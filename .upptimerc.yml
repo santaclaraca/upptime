@@ -1,0 +1,93 @@
+# Change these first
+owner: santaclaraca # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
+
+sites:
+  - name: City of Santa Clara
+    url: https://www.santaclaraca.gov
+    maxResponseTime: 10000
+  - name: Silicon Valley Animal Control Authority
+    url: https://www.svaca.com
+    maxResponseTime: 10000
+  - name: Silicon Valley Power
+    url: https://www.siliconvalleypower.com
+    maxResponseTime: 10000
+  - name: Fiber Connect
+    url: https://www.svpfiber.com
+    maxResponseTime: 10000
+  - name: Santa Clara City Library
+    url: https://www.sclibrary.org
+    maxResponseTime: 10000
+  - name: site01
+    url: $SITE01
+    maxResponseTime: 10000
+  - name: site02
+    url: $SITE03
+    maxResponseTime: 10000
+  - name: Legistar
+    url: https://santaclara.legistar.com/
+    maxResponseTime: 10000
+  - name: Accela
+    url: https://aca-prod.accela.com/santaclara
+    maxResponseTime: 10000
+  - name: site14
+    url: $SITE14
+    maxResponseTime: 10000
+  - name: Santa Clara City Code
+    url: https://www.codepublishing.com/CA/SantaClara/
+    maxResponseTime: 10000
+  - name: site03
+    url: $SITE03
+    maxResponseTime: 10000
+  - name: site04
+    url: $SITE04
+    maxResponseTime: 10000
+  - name: site09
+    url: $SITE09
+    maxResponseTime: 10000
+  - name: site15
+    url: $SITE15
+    maxResponseTime: 10000
+  - name: site07
+    url: $SITE07
+    maxResponseTime: 10000
+  - name: site05
+    url: $SITE05
+    maxResponseTime: 10000
+  - name: site13
+    url: $SITE13
+    maxResponseTime: 10000
+  - name: site10
+    url: $SITE10
+    maxResponseTime: 10000
+  - name: site08
+    url: $SITE08
+    maxResponseTime: 10000
+  - name: site06
+    url: $SITE06
+    maxResponseTime: 10000
+  - name: site11
+    url: $SITE11
+    maxResponseTime: 10000
+  - name: site12
+    url: $SITE12
+    maxResponseTime: 10000
+
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "CSC websites status dashboard"
+  introMessage: 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
