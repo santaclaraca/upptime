@@ -18,23 +18,20 @@ sites:
   - name: Santa Clara City Library
     url: https://www.sclibrary.org
     maxResponseTime: 10000
-  - name: site01
-    url: $SITE01
-    maxResponseTime: 10000
-  - name: site02
-    url: $SITE03
-    maxResponseTime: 10000
   - name: Legistar
     url: https://santaclara.legistar.com/
     maxResponseTime: 10000
   - name: Accela
     url: https://aca-prod.accela.com/santaclara
     maxResponseTime: 10000
+  - name: site01
+    url: $SITE01
+    maxResponseTime: 10000
+  - name: site02
+    url: $SITE03
+    maxResponseTime: 10000
   - name: site14
     url: $SITE14
-    maxResponseTime: 10000
-  - name: Santa Clara City Code
-    url: https://www.codepublishing.com/CA/SantaClara/
     maxResponseTime: 10000
   - name: site03
     url: $SITE03
