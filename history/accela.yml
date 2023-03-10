@@ -1,7 +1,7 @@
 url: https://aca-prod.accela.com/santaclara
-status: up
-code: 200
-responseTime: 391
-lastUpdated: 2023-03-09T23:16:42.907Z
+status: down
+code: 502
+responseTime: 169
+lastUpdated: 2023-03-10T03:45:51.314Z
 startTime: Sat Nov 19 2022 00:02:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
