@@ -28,7 +28,7 @@ sites:
     url: $SITE01
     maxResponseTime: 10000
   - name: site02
-    url: $SITE03
+    url: $SITE02
     maxResponseTime: 10000
   - name: site14
     url: $SITE14
