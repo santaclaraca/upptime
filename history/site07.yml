@@ -1,7 +1,7 @@
 url: $SITE07
-status: degraded
+status: down
 code: 400
-responseTime: 29941
-lastUpdated: 2023-04-15T20:33:59.635Z
+responseTime: 819
+lastUpdated: 2023-04-15T20:49:01.960Z
 startTime: Fri Jan 27 2023 00:14:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
