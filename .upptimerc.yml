@@ -47,8 +47,6 @@ sites:
     maxResponseTime: 10000
   - name: site07
     url: $SITE07
-    expectedStatusCodes:
-      - 400
     maxResponseTime: 10000
   - name: site05
     url: $SITE05
