@@ -47,6 +47,7 @@ sites:
     maxResponseTime: 10000
   - name: site07
     url: $SITE07
+    __dangerous__insecure
     maxResponseTime: 10000
   - name: site05
     url: $SITE05
