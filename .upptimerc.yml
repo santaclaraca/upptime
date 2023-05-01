@@ -18,10 +18,10 @@ sites:
   - name: Santa Clara City Library
     url: https://www.sclibrary.org
     maxResponseTime: 10000
-  - name: Legistar
+  - name: Legislative Public Meetings Portal
     url: https://santaclara.legistar.com/
     maxResponseTime: 10000
-  - name: Accela
+  - name: Civic Platform
     url: https://aca-prod.accela.com/santaclara
     maxResponseTime: 10000
   - name: site01
