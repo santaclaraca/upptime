@@ -6,7 +6,7 @@
     "slug": "city-of-santa-clara",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 689,
     "timeYear": 726,
     "dailyMinutesDown": {
+      "2023-08-25": 0,
       "2023-07-21": 30,
       "2023-04-21": 21
     }
@@ -27,8 +28,8 @@
     "slug": "silicon-valley-animal-control-authority",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 699,
@@ -37,7 +38,7 @@
     "timeMonth": 723,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2023-08-25": 2,
+      "2023-08-25": 6,
       "2023-07-21": 29,
       "2023-04-21": 21
     }
@@ -49,9 +50,9 @@
     "slug": "silicon-valley-power",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 664,
     "timeDay": 611,
@@ -59,7 +60,7 @@
     "timeMonth": 642,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-08-25": 1,
+      "2023-08-25": 5,
       "2023-07-21": 29,
       "2023-06-14": 22,
       "2023-04-21": 21
@@ -72,9 +73,9 @@
     "slug": "fiber-connect",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 503,
     "timeDay": 293,
@@ -82,7 +83,7 @@
     "timeMonth": 448,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-08-25": 1,
+      "2023-08-25": 5,
       "2023-07-21": 29,
       "2023-04-21": 21
     }
@@ -94,9 +95,9 @@
     "slug": "santa-clara-city-library",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 540,
     "timeDay": 463,
@@ -104,7 +105,7 @@
     "timeMonth": 522,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2023-08-25": 0,
+      "2023-08-25": 4,
       "2023-07-21": 29,
       "2023-04-21": 21
     }
@@ -164,18 +165,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site01",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.97%",
     "time": 570,
     "timeDay": 561,
     "timeWeek": 645,
     "timeMonth": 587,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2023-08-25": 0,
+      "2023-08-25": 4,
       "2023-07-21": 29,
       "2023-04-21": 21,
       "2023-03-17": 25
@@ -417,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 357,
+      "2023-08-25": 361,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -622,7 +623,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 357,
+      "2023-08-25": 361,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -879,7 +880,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 357,
+      "2023-08-25": 361,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -1109,7 +1110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-25": 357,
+      "2023-08-25": 361,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
