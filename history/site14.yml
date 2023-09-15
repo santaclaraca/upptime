@@ -1,7 +1,7 @@
 url: $SITE14
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2023-09-14T23:13:22.362Z
+status: degraded
+code: 502
+responseTime: 21221
+lastUpdated: 2023-09-15T02:43:36.794Z
 startTime: 2023-01-28T00:31:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
