@@ -1,7 +1,7 @@
 url: $SITE01
-status: up
-code: 200
-responseTime: 840
-lastUpdated: 2023-11-08T03:21:50.600Z
+status: down
+code: 503
+responseTime: 674
+lastUpdated: 2023-11-08T11:46:38.893Z
 startTime: 2023-01-27T00:14:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
