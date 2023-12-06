@@ -173,9 +173,9 @@
     "url": "https://aca-prod.accela.com/santaclara",
     "icon": "https://icons.duckduckgo.com/ip3/aca-prod.accela.com.ico",
     "slug": "civic-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.83%",
@@ -185,6 +185,7 @@
     "timeMonth": 338,
     "timeYear": 498,
     "dailyMinutesDown": {
+      "2023-12-06": 0,
       "2023-12-04": 17,
       "2023-11-28": 29,
       "2023-11-22": 16,
@@ -486,7 +487,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 45,
+      "2023-12-06": 239,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -794,7 +795,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 45,
+      "2023-12-06": 239,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -1155,7 +1156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 45,
+      "2023-12-06": 240,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
@@ -1488,7 +1489,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-06": 45,
+      "2023-12-06": 240,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
