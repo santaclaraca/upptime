@@ -148,9 +148,9 @@
     "url": "https://santaclara.legistar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/santaclara.legistar.com.ico",
     "slug": "legislative-public-meetings-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.93%",
@@ -160,6 +160,7 @@
     "timeMonth": 773,
     "timeYear": 581,
     "dailyMinutesDown": {
+      "2023-12-17": 0,
       "2023-12-12": 16,
       "2023-12-09": 36,
       "2023-11-30": 21,
@@ -492,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 48,
+      "2023-12-17": 267,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -811,7 +812,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 48,
+      "2023-12-17": 267,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -1183,7 +1184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 48,
+      "2023-12-17": 267,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -1527,7 +1528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-17": 48,
+      "2023-12-17": 267,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
