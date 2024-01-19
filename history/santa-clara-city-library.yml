@@ -1,7 +1,7 @@
 url: https://www.sclibrary.org
-status: up
-code: 200
-responseTime: 245
-lastUpdated: 2024-01-19T23:25:55.087Z
+status: down
+code: 503
+responseTime: 325
+lastUpdated: 2024-01-19T23:42:24.226Z
 startTime: 2022-11-19T00:02:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
