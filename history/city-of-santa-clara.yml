@@ -1,7 +1,7 @@
 url: https://www.santaclaraca.gov
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2024-01-23T17:25:41.593Z
+status: down
+code: 503
+responseTime: 715
+lastUpdated: 2024-01-23T17:41:38.059Z
 startTime: 2022-11-19T00:02:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
