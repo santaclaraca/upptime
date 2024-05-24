@@ -71,7 +71,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.svaca.com.ico",
     "slug": "silicon-valley-animal-control-authority",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.66%",
@@ -136,7 +136,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleypower.com.ico",
     "slug": "silicon-valley-power",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.66%",
@@ -673,18 +673,20 @@
     "url": "$SITE13",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 365,
-    "timeWeek": 282,
-    "timeMonth": 307,
-    "timeYear": 286,
-    "dailyMinutesDown": {}
+    "timeDay": 234,
+    "timeWeek": 260,
+    "timeMonth": 300,
+    "timeYear": 285,
+    "dailyMinutesDown": {
+      "2024-05-24": 1
+    }
   },
   {
     "name": "site10",
@@ -703,7 +705,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 46,
+      "2024-05-24": 172,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -1087,7 +1089,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 46,
+      "2024-05-24": 172,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -1510,7 +1512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 46,
+      "2024-05-24": 173,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
@@ -1894,7 +1896,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 46,
+      "2024-05-24": 173,
       "2024-05-23": 1440,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
