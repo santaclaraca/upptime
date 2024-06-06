@@ -1,7 +1,7 @@
 url: https://santaclara.legistar.com/
-status: up
+status: degraded
 code: 200
-responseTime: 304
-lastUpdated: 2024-06-06T06:57:03.626Z
+responseTime: 21105
+lastUpdated: 2024-06-06T10:56:09.462Z
 startTime: 2023-05-01T23:14:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
